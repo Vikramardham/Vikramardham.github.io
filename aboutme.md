@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should hire me!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Computational and Data scientist. I got a PhD (Dr. rer. nat.) in Theoretical Chemistry at TU Darmstadt, Germany in 2018. I have Bachelors (IIT Roorkee, India) and Masters (Universty at Buffalo, USA) in Chemical Engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Learning new things excites me more than anything. I am currently, exploring various Machine learning and deep learning algorithms using scikit-learn, Tensorflow and fastati libraries. Also, I am taking a stab at big data analytics using Hadoop and SQL. I will dedicate my posts to topics related to the above areas.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Apart from that, I like reading, horse-riding, movies and progromming among other things. Once, I find time, I will spend time on writing short-stories to show-case one of other talents, humor.
