@@ -7,6 +7,7 @@
 url: "https://Vikramardham.github.io"
 baseurl: ""
 future: true
+timezone: +01:00
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
