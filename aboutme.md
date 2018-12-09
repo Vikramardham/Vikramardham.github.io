@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About me
 subtitle: Why you should hire me!!
 ---
