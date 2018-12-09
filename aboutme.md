@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: About me
 subtitle: Why you should hire me!!
 ---
